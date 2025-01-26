@@ -1,4 +1,11 @@
-pandas==2.2.2
-selenium==4.10.0
+selenium==4.11.0
+pandas==2.0.3
 openpyxl==3.1.2
-tk==0.1.0
+ttkbootstrap==1.10.1
+python-dotenv==1.0.0
+pillow==10.0.0
+numpy==1.23.5
+winsound==1.0.0  # Windows only
+phonenumbers==8.13.53
+webdriver-manager==4.0.1
+psutil==5.9.6

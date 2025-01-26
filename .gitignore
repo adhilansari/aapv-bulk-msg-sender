@@ -50,3 +50,8 @@ coverage.xml
 docs/_build/
 
 error.log
+chromedriver.log
+sessions
+logs
+contacts.*
+user_data
