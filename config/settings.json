@@ -1,0 +1,36 @@
+{
+  "app": {
+    "name": "WhatsApp Bulk Messenger Pro",
+    "version": "1.1.0",
+    "theme": "minty",
+    "dark_mode": false,
+    "window_size": "1200x900",
+    "last_updated": "2025-03-23T23:39:39.438657"
+  },
+  "messaging": {
+    "default_country_code": "+91",
+    "min_delay": 10,
+    "max_delay": 20,
+    "max_attachments": 10,
+    "max_message_length": 40000,
+    "auto_retry": true,
+    "max_retries": 3
+  },
+  "session": {
+    "auto_refresh": true,
+    "session_timeout": 3600,
+    "cleanup_days": 30
+  },
+  "paths": {
+    "logs_dir": "./logs",
+    "data_dir": "./data",
+    "templates_dir": "./data/templates",
+    "chrome_profile_dir": "./assets/chrome_profile"
+  },
+  "features": {
+    "enable_templates": true,
+    "enable_scheduling": true,
+    "enable_reporting": true,
+    "enable_console_logging": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "templates": [
+    {
+      "id": "welcome",
+      "name": "Welcome Message",
+      "content": "Hello {{name}},\n\nThank you for connecting with us. We're excited to have you on board!\n\nBest regards,\n{{sender}}",
+      "created": "2025-03-23T23:39:39.439576",
+      "last_used": null
+    },
+    {
+      "id": "follow_up",
+      "name": "Follow-up Message",
+      "content": "Hi {{name}},\n\nI wanted to follow up on our previous conversation. Let me know if you have any questions.\n\nRegards,\n{{sender}}",
+      "created": "2025-03-23T23:39:39.439576",
+      "last_used": null
+    }
+  ]
+}
